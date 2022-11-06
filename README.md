@@ -1,6 +1,6 @@
 
 # Introduction (problem, objectives)
-
+Everyone has seen a crime, whether they were the victim or the offender; Crime is an important social problem that affects our society's safety, development, and economy. Our objective is to help decision-makers by providing useful insights and information about the crimes that happened in the last 7 years so that they can take appropriate actions to mitigate these crimes.
 
 # Team members: 
 - Asma
